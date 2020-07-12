@@ -6,7 +6,7 @@
 ## Hi 👋, 
 I'm a Ph.D. candidate based in Amsterdam and a member of the Database Architecture group at CWI. My research is focused on progressive indexing techniques, self-tuning tools, embedded database systems, and in-database analytics.
 
-You can find a full list of my publications [here].(www.pdet.github.io)
+You can find a full list of my publications [here](www.pdet.github.io).
 
 ![GH stats](https://github-readme-stats.vercel.app/api?username=pdet&hide=["issues"]&show_icons=true)
 
