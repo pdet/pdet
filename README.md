@@ -6,4 +6,4 @@
 ## About me 
 I'm a Ph.D. candidate based in Amsterdam and a member of the Database Architecture group at CWI. My research is focused on adaptive physical layouts.
 
-You can find a full list of my publications [here](www.pdet.github.io).
+You can find a full list of my publications [here](https://pdet.github.io/).
