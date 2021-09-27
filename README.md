@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@holanda_pe-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/holanda_pe)](https://twitter.com/holanda_pe)
 
 ## About me 
-I'm a Ph.D. candidate based in Amsterdam and a member of the Database Architecture group at CWI. My research is focused on adaptive physical layouts.
+I’m a Post-Doc based in Amsterdam and a member of the Database Architecture group at CWI. I’m currently working as a Software Engineer for Duckdb Labs.
+
 
 You can find a full list of my publications [here](https://pdet.github.io/).
